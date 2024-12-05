@@ -1,35 +1,42 @@
-# Welcome to GitHub
+# 유레카 프로젝트 팀 생성 🎉
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+안녕하세요! 저희는 **유레카 프로젝트**의 **{{분반}} {{팀 번호}}조**입니다.  
+팀 페이지에 방문해주셔서 감사합니다. 🎈
 
-가나다라마바사
+## 📌 팀 정보
+- **분반**: {{분반}}  
+- **팀 번호**: {{팀 번호}}  
+- **페이지 주소**: [https://kookmin-sw-eureka.github.io/eureka-{{분반}}-{{팀 번호}}](https://kookmin-sw-eureka.github.io/eureka-{{분반}}-{{팀 번호}})
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+## 📖 프로젝트 소개
+우리 팀은 {{프로젝트 목표/주제}}에 대해 연구 및 개발하고 있습니다.  
+주요 내용은 다음과 같습니다:
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
+- **프로젝트 주제**: {{주제 이름}}
+- **주요 기능**:  
+  - 기능 1  
+  - 기능 2  
+  - 기능 3
 
+## 🛠️ 기술 스택
+우리 팀이 사용하는 기술 스택은 다음과 같습니다:
+- **Frontend**: {{React, Vue.js 등}}
+- **Backend**: {{Node.js, Django 등}}
+- **Database**: {{MySQL, MongoDB 등}}
+- **Version Control**: Git & GitHub
 
-## Markdown을 사용하여 내용꾸미기
+## 📂 팀 구성원
+| 이름   | 역할         | GitHub ID         |
+|--------|--------------|-------------------|
+| 홍길동 | 팀장         | [@gildonghong](https://github.com/gildonghong) |
+| 김유신 | 프론트엔드   | [@yushinkim](https://github.com/yushinkim) |
+| 이순신 | 백엔드       | [@soonsinlee](https://github.com/soonsinlee) |
+| 강감찬 | 데이터 분석  | [@gamchankang](https://github.com/gamchankang) |
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+## 📬 연락하기
+- 이메일: {{team_email@example.com}}  
+- 팀 페이지: [https://kookmin-sw-eureka.github.io/eureka-{{분반}}-{{팀 번호}}](https://kookmin-sw-eureka.github.io/eureka-{{분반}}-{{팀 번호}})
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
